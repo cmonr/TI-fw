@@ -6,3 +6,7 @@
 	path = tm4c1233h6pm
 	url = git@github.com:cmonr/tm4c1233h6pm-fw
 	branch = master
+[submodule "PAL"]
+	path = PAL
+	url = git@github.com:cmonr/PAL
+	branch = master
