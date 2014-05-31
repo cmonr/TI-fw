@@ -1,0 +1,8 @@
+[submodule "tm4c123gh6pm"]
+	path = tm4c123gh6pm
+	url = git@github.com:cmonr/tm4c123gh6pm-fw
+	branch = master
+[submodule "tm4c1233h6pm"]
+	path = tm4c1233h6pm
+	url = git@github.com:cmonr/tm4c1233h6pm-fw
+	branch = master
